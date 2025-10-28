@@ -65,9 +65,10 @@ The SPI slave module receives data from the master device and processes it based
 
 ## Some Snippets :
 - Elaborated Design Schematic : 
-![Screenshot 2024-08-04 144522](https://github.com/user-attachments/assets/0c718c8e-4e32-4d76-b55e-8bcee2bd10a6)
+<img width="1036" height="468" alt="elaborated_pro3" src="https://github.com/user-attachments/assets/e695fae5-4399-4b72-8667-419df4d8fa8c" />
+
 - Synthesis Schematic : 
-![Screenshot 2024-08-04 151058](https://github.com/user-attachments/assets/14c49ae4-e254-4f27-a2b3-5a6e5202a27f)
+<img width="1021" height="393" alt="synthesis_pro2" src="https://github.com/user-attachments/assets/f44fa5a5-177e-4ad1-a6c9-c12232bcc757" />
 
 Device After Implementation on FPGA Artex7 - Basys 3
 - ![Screenshot 2024-08-04 154803](https://github.com/user-attachments/assets/eb3574d8-77dd-4279-8838-15c725a914b8)
