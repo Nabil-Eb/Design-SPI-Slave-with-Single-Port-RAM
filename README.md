@@ -85,17 +85,9 @@ The project includes timing and utilization reports for different encoding schem
 
 | Encoding       | Worst Negative Setup Slack (WNS) | Worst Hold Slack (WHS) | Worst Pulse Width Slack (WPWS) |
 |----------------|----------------------------------|------------------------|--------------------------------|
-| Gray           | 5.376 ns                        | 0.101 ns               | 4.500 ns                       |
-| Sequential     | 5.693 ns                        | 0.068 ns               | 4.500 ns                       |
-| One-Hot        | 5.806 ns                        | 0.144 ns               | 4.500 ns                       |
-
-#### Utilization Report
-
-| Resource | Utilization | Available | Utilization % |
-|----------|-------------|-----------|---------------|
-| LUT      | 22          | 20800     | 0.11%         |
-| FF       | 23          | 41600     | 0.06%         |
-| IO       | 25          | 106       | 23.58%        |
+| Gray           | 5.591 ns                        | 0.084 ns               | 4.500 ns                       |
+| Sequential     | 5.752 ns                        | 0.044 ns               | 4.500 ns                       |
+| One-Hot        | 5.547 ns                        | 0.104 ns               | 4.500 ns                       |
 
 ### Conclusion
 
